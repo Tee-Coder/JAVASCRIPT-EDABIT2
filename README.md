@@ -1,4 +1,7 @@
-# JAVASCRIPT-EDABIT2
+# JAVASCRIPT-EDABIT2 
+
+
+FIRSTNVOWEL
 
 This program creates a function that returns the first "n" vowels of a string.
 It also returns "invalid" if the "n" exceeds the number of vowels in a string.
